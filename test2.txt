@@ -1,1 +1,6 @@
-this is my change
+this is my changes 
+my name is Abanoub Sorror
+I want to learn GIt , but untill now i didn't git the git idea
+I will keep trying untill i reach my goal.
+My goal is to be a data analyzer with the begint of the comming year
+
